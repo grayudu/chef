@@ -1,3 +1,3 @@
 # chef
 chef solo bootstrap
-new sample
+chef-solo -c ~ec2-user/chef/solo.rb
